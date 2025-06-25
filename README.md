@@ -1,4 +1,4 @@
-![All_projects](\My_repos\All-Projects\assets\Banner.png)
+![All_projects](assets//Banner.png)
 
 # All-Projects
 
